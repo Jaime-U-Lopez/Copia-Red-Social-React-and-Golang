@@ -1,0 +1,9 @@
+go get go.mongodb.org/mongo-driver/mongo
+go get go.mongodb.org/mongo-driver/mongo/options   relacion de la base de datos
+go get go.mongodb.org/mongo-driver/bson          json encriptado
+go get go.mongodb.org/mongo-driver/bson/primitive
+go get golang.org/x/crypto/bcrypt                       en cryptacion en golang
+go get github.com/gorilla/mux
+go get github.com/rs/cors   permite dar permisos a la api para ser accedida remotamente 
+go get github.com/dgrijalva/jwt-go
+
